@@ -1,0 +1,11 @@
+{
+    "mongoURI": "mongodb+srv://Cheena:fetch@cluster0.iprsg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "fetch_secret",
+    "admin-email": "admin@gmail.com",
+    "admin-password": "fetch@123",
+    "nodemailer-email": "flash24news7@gmail.com",
+    "nodemailer-password": "rohinimc123",
+    "nodemailer-clientID":"209620419831-bsbiom12plh9vj8knep0vckplbh4gt8g.apps.googleusercontent.com",
+    "nodemailer-secret" : "Oeb21GDqKHp-tjD29tVOV6oc",
+    "nodemailer-refreshToken" : "1//04JA4EUtza34kCgYIARAAGAQSNwF-L9IrSjQsZYBAbImB7aa_uDMwYG3p9B5VENAxYO6rTGk1qT3p7OQNzS43vAO5gQmRi1eB_wQ"
+}
